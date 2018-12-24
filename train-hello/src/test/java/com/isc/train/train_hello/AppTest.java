@@ -5,9 +5,10 @@ import org.junit.Test;
 import junit.framework.TestCase;
 
 public class AppTest extends TestCase{
-
+	
 	@Test
 	public void testApp(){
-		assertTrue( true );
+//		App app = new App();
+//		app.main(new String[] {""});
 	}
 }
